@@ -1,0 +1,16 @@
+list_nama_mahasiswa = ["Muhammad Thoriq Sadewo", "Gilang Hidayat", "Muhammad Iqbal Zaki", "Fikri Rozieq Al-Mumtaz", "Muhammad Raffa Fizzura"]
+tuple_prodi_alamat = ("Sains Data", "Gedung E2 Kampus 1 Unesa")
+set_matkul = {
+    "Matematika Dasar",
+    "Pemrograman Dasar",
+    "Aljabar Matriks",
+    "Matematika Diskrit",
+    "Arsitektur Komputer dan Sistem Operasi"
+}
+dict_nim_mahasiswa = {
+    "Muhammad Thoriq Sadewo" : 25031554079,
+    "Gilang Hidayat" : 25031554123,
+    "Muhammad Iqbal Zaki" : 25031554108,
+    "Fikri Rozieq Al-Mumtaz" : 25031554101,
+    "Muhammad Raffa Fizzura" : 25031554181
+}
